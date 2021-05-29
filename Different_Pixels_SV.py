@@ -217,4 +217,4 @@ while True:
 			elif r == 1:
 				j += speed
 				
-# This program was Different_Pixels_SV_LXIV.py by SarvasyaVikas	
+# This program was Different_Pixels_SV_LXIV.py by SarvasyaVikas
