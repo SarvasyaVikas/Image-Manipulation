@@ -8,7 +8,7 @@ import random
 ap = argparse.ArgumentParser()
 
 # The user will have to load an image to disk that will be supplied to the program to be manipulated
-ap.add_argument("-i", "--image", type=str, default="Sarvasya_Vikas.png",
+ap.add_argument("-i", "--image", type=str, default="Quicksilver.jpg",
 	help="path to the input image")
 
 # Generating endpoints of Rectangle
