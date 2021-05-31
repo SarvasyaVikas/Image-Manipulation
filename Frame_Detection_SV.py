@@ -109,4 +109,4 @@ DifferenceIV = DifferenceIII.resize((1200, 840))
 Difference = DifferenceIV.copy()
 Difference.show()
 
-# This program was Frame_Detection_SV_XXII.py by Vikas Sarvasya
+# This program was Frame_Detection_SV_XXII.py by SarvasyaVikas
