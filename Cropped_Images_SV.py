@@ -35,3 +35,5 @@ while True:
 	# Notifications to the user
 		print("Next Column")
 	print("Next Round")
+
+# This program was Cropped_Images_SV_VI.py by SarvasyaVikas
